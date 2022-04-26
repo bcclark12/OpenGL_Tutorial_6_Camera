@@ -13,6 +13,7 @@ void mouse_callback(GLFWwindow*, double, double);
 void scroll_callback(GLFWwindow*, double, double);
 void processInput(GLFWwindow*);
 
+//New branch for panning camera
 
 float vertices[] = {
 	-0.5f, -0.5f, -0.5f,  0.0f, 0.0f,
